@@ -1,0 +1,506 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.maindiv{
+    width: 100%;
+    height: 100vh;
+
+    background-color:  rgb(235, 200, 206);
+}
+
+.firstdiv{
+    width: 30%;
+    height: 100vh;
+    
+}
+
+.df{
+    display: flex;
+}
+.seconddiv{
+    width: 40%;
+    height: 100vh;
+}
+
+.thirddiv{
+    width: 30%;
+    height: 100vh;
+}
+
+.p{
+    font-size: 220%;
+    
+    font-family: cursive ;
+    padding-top: 25%;
+    padding-left: 20%;
+}
+
+.cakeimg{
+    width: 80%;
+    height: 90vh;
+    margin-top: 10%;
+    margin-left: 10%;
+}
+
+.p1{
+    padding-left: 20%;
+    font-size: 130%;
+    font-family: cursive;
+}
+
+.p2{
+    padding-top: 30%;
+    font-size: 150%;
+    font-family: cursive;
+    padding-left: 15%;
+}
+
+.p3{
+    font-size: 150%;
+    font-family: cursive;
+    padding-left: 15%;
+}
+
+.navc{
+    background-color: rgb(228, 201, 205);
+}
+
+.paa-5{
+    padding-left: 6%;
+}
+
+.mar{
+    margin-top: 70%;
+    margin-left: 75%;
+}
+.color{
+    background-color: rgb(238, 132, 150);
+}
+.colorbg{
+    background-color: white;
+}
+.ff-c{
+    font-family: cursive;
+}
+
+.sdiv{
+    width: 100%;
+    height: 80vh;
+}
+
+.ssdiv{
+    width: 55%;
+    height: 80vh;
+}
+
+.p4{
+    font-size: 220%;
+    padding-left: 20%;
+    padding-top: 5%;
+    font-family: cursive ;
+}
+
+.p5{
+    font-size: 110%;
+    font-family: cursive;
+    padding-top: 5%;
+    padding-left: 5%;
+}
+
+.sssdiv{
+    width: 45%;
+    height: 80vh;
+}
+
+.samir{
+    margin-left: 20%;
+    margin-top: 15%;
+
+    width: 70%;
+    height: 60vh;
+}
+
+.kat{
+    text-align: center;
+    font-size: 300%;
+    padding-top: 3%;
+    font-family: cursive;
+}
+
+.bg-grey{
+    background-color: rgb(235, 209, 209);
+    width: 100%;
+    height: 170vh;
+}
+
+.fc{
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 1%;
+    height: 40vh;
+}
+
+.cofemac{
+    font-size: 120%;
+    font-weight: 900;
+    font-family: sans-serif;
+}
+
+.ustyazi{
+    font-size: 130%;
+    font-family: sans-serif;
+}
+
+.margin-left{
+    margin-left: 2%;
+}
+
+.m{
+    margin-left: 10%;
+}
+
+.margin-top{
+    margin-top: 2%;
+}
+
+
+.hv:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+
+.onas{
+    width: 100%;
+    height: 105vh;
+    background-color: rgb(254, 249, 230);
+}
+
+.onasd{
+    width: 50%;
+    height: 100vh;
+}
+
+.klub{
+    width: 65%;
+    height: 83vh;
+    margin-top: 6%;
+    margin-left: 25%;
+}
+
+.kmr{
+    font-size: 220%;
+    font-family: cursive;
+    font-weight: 500;
+    padding-top: 7%;
+    padding-left: 2%;
+}
+
+.colorr{
+    background-color: khaki;
+}
+
+.t-a{
+    text-align: center;
+}
+
+.factaa{
+    width: 100%;
+    height: 140vh;
+}
+
+.pa{
+    padding-top: 5%;
+}
+
+.arbuz{
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 5%;
+}
+
+.bg-g{
+    background-color: rgb(212, 142, 165);
+}
+
+.footerrr{
+    width: 100%;
+    height: 70vh;
+    background: rgb(215,187,52);
+background: linear-gradient(90deg, rgba(215,187,52,1) 21%, rgba(190,153,50,1) 47%);
+}
+
+.h6{
+    padding-top: 2%;
+    font-family: cursive;
+    font-size: 120%;
+}
+
+.icons{
+    font-size: 70px;
+    margin-left: 20px;
+    
+}
+
+.idiv{
+    width: 100%;
+    height: 30vh;
+    padding-left: 38%;
+}
+
+.p-l{
+    padding-left: 9%;
+}
+
+.kot{
+    font-size: 70%;
+    font-family: sans-serif;
+}
+
+.cw{
+    color: white;
+}
+
+.ma{
+    margin-top: 4.1%;
+}
+
+.con{
+    width: 50%;
+    height: 82vh;
+}
+
+.piroq{
+    width: 90%;
+    height: 80vh;
+    margin-left: 28%;
+    margin-top: 5%;
+    border-radius: 50px;
+}
+
+.m-l{
+    margin-left: 7%;
+}
+
+.d{
+    background-image: url(images/untitled-1_02.png);
+    width: 100%;
+    height: 110vh;
+}
+
+.mara{
+    width: 70%;
+    height: 50%;
+    margin: 0 auto;
+    margin-top: 5%;
+}
+
+.xa{
+    background-color: rgb(185, 24, 81);
+}
+
+.naw{
+    padding-top: 3%;
+    font-family: cursive;
+}
+
+.dn{
+    width: 80%;
+    height: 150vh;
+
+    margin: 0 auto;
+    
+    margin-top: 3%;
+}
+
+.tw{
+    width: 50%;
+    height: 60vh;
+}
+
+.m-t{
+    margin-top: -38.5%;
+}
+
+.dm{
+    width: 80%;
+    height: 75vh;
+
+    margin: 0 auto;
+    
+    margin-top: 3%;
+}
+
+.nc1{
+    background: rgb(6,54,115);
+    background: linear-gradient(90deg, rgba(6,54,115,1) 19%, rgba(4,1,25,1) 51%);
+}
+
+.w{
+    color: white;
+}
+
+.b{
+    background-color: rgb(25, 25, 90);
+}
+
+.bg{
+    background: rgb(221,88,230);
+background: linear-gradient(0deg, rgba(221,88,230,1) 10%, rgba(227,170,48,1) 82%);
+}
+
+.vso{
+    width: 100%;
+    height: 58vh;
+    background: rgb(203,137,199);
+    background: linear-gradient(0deg, rgba(203,137,199,1) 13%, rgba(161,115,204,1) 77%);
+}
+
+.ba{
+    background: rgb(6,54,115);
+}
+
+.se{
+    width: 45%;
+    height: 40vh;
+
+    border-radius: 20px;
+
+    background: rgb(194,45,32);
+    background: radial-gradient(circle, rgba(194,45,32,1) 24%, rgba(210,89,73,1) 32%);
+
+    margin-top: 4%;
+    margin-left: 3%;
+}
+
+.mango{
+    height: 37vh;
+    margin-top: 1%;
+    width: 30%;
+    margin-left: 3%;
+}
+
+.mango1{
+    padding-right: 5%;
+    padding-left: 19%;
+    padding-top: 5%;
+    font-weight: 900;
+}
+
+.poncik{
+    width: 45%;
+    height: 40vh;
+
+    border-radius: 20px;
+
+    background: rgb(199,189,43);
+    background: radial-gradient(circle, rgba(199,189,43,1) 26%, rgba(210,158,73,1) 37%);
+    margin-top: 4%;
+}
+
+.poncik1{
+    height: 37vh;
+    margin-top: 1%;
+    width: 33%;
+    margin-left: 3%;
+}
+
+.m-q{
+    margin-left: 4%;
+}
+
+.jeltiy{
+    width: 100%;
+    height: 100vh;
+    background: rgb(199,189,43);
+    background: radial-gradient(circle, rgba(199,189,43,1) 40%, rgba(210,158,73,1) 68%);
+}
+
+.jeltiy1{
+    width: 60%;
+    height: 100vh;
+}
+
+.h1{
+    font-weight: 600;
+    padding-left: 5%;
+    padding-top: 5%;
+}
+
+.produkti{
+    font-size: 200%;
+    font-family: cursive;
+    padding-top: 4%;
+    padding-left: 5%;
+}
+
+.keks{
+    width: 90%;
+    height: 75vh;
+    border-style: unset;
+    border-radius: 50px;
+    margin-top: 10%;
+    margin-left: 15%;
+}
+
+.ul{
+    padding: 3px;
+    padding-left: 19%;
+}
+
+.l-n{
+    list-style: none;
+}
+
+.kom{
+    font-size: 140%;
+    font-family: sans-serif;
+    padding-left: 25%;
+    font-weight: 700;
+    
+}
+.dp{
+    width: 30%;
+    
+    margin-top: 7%;
+}
+
+.aaa{
+   margin-left: 7%;
+   margin-top: 7%;
+   width: 30%;
+}
+
+.bbb{
+    font-size: 140%;
+    font-family: sans-serif;
+    font-weight: 700;
+    padding-left: 9%;
+}
+.ull{
+    padding: 3px;
+    padding-right: 17%;
+}
+
+.ccc{
+    width: 40%;
+    margin-top: 7%;
+}
+
+.ulll{
+    padding: 3px;
+    padding-left: 3%;
+}
+
+.plp{
+    font-size: 110%;
+}
+
+.hvv:hover{
+    transition: 0.5s;
+    transform: perspective();
+}
+
+
